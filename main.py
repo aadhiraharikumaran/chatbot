@@ -32,7 +32,7 @@ def get_groq_response(question):
 
 st.title("Sachin Tendulkar Chatbot")
 
-st.image("sachin.jpg", width=700, caption="Sachin Tendulkar")
+st.image("C:/Users/DELL/Downloads/sachin.jpg", width=700, caption="Sachin Tendulkar")
 
 st.markdown("""
 <style>
